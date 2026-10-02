@@ -23,7 +23,6 @@ scripthub/
 └── ...
 ```
 
-> A estrutura pode variar conforme a evolução do projeto e a inclusão de novos scripts.
 
 ## Funcionalidades
 
